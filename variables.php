@@ -15,6 +15,7 @@
 		$Var="Joe";
 		
 		#usamos isset para saber si la variable a sido inicializada
+		#si esta inicializada saldra true
 		cabecera("usamos el comando var_dump para imprimir isset TRUE");
 		var_dump(isset($var)); #usamos el comando var_dump para imprimir isset TRUE
 		echo "</br> $var, $Var";
