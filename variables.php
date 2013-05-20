@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Uso de Variables</title>
+	<title>Uso de Variables - Repositorio GitHub</title>
 </head>
 <body>
 	<?php
